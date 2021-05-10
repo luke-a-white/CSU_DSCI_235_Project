@@ -2,11 +2,8 @@
 
 ## Overview 
 
-This project is about the Denver nuggets All-star center Nikola Jokic and star guard Jamal Murray
+This project is about the Denver nuggets All-star center Nikola Jokic and progess though the season and seasons.
 
-## What about these players
+## What about the team
 
-Jamal murrry recently suffered a Torn ACL (Anterior cruciate ligament), and he was the second option to nikola Jokic. 
-Though this project i will be taking a look at the general production of the nuggets players indivialy since Murrays injury.
-Nikola Jokic is the leading Most Valuable player canidate, in this project I want to make that case clear and compare him to others in the "MVP race" and other MVP's 
-before him.
+In this project I will take a look at how Nikola Jokic has the stats to prove he should have the MVP of the NBA this year and how the team has prgressed this season and the seasons prevoius
